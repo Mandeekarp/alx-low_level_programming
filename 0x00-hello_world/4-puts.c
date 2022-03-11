@@ -1,14 +1,14 @@
 /*
- * Print "Programming is like building a multilingual puzzle", followed by \n.
- * Rule: use puts NOT printf
+ * File name 4-puts.c
+ * Rule: use puts NOT printf to print text
  */
 #include <stdio.h>
 /*
- * main : prints the above text using puts
+ * main : prints "Programming is like building a multilingual puzzle"
  * returns 0
  */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle\n");
+	puts("\"Programming is like building a multilingual puzzle"\n);
 	return (0);
 }
