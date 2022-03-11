@@ -7,7 +7,7 @@
 #include <time.h>
 
 /*
- * main - assign a random number to the variable n each time it is executed
+ * main 
  * Desciption - prints whether stored number is +ive or -ive
  * Return 0
  */

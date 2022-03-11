@@ -1,5 +1,5 @@
 /*
- * File name 5-prinf.c
+ * File 5-prinf.c
  * Rule: use prinf NOT puts to print text
  */
  
@@ -12,5 +12,5 @@
 int main(void)
 {
 	prinf("with proper grammar, but the outcome is a piece of art,\n");
-	return (0)
+	return (0);
 }

@@ -1,10 +1,11 @@
 /*
- * File name 4-puts.c
+ * File 4-puts.c
  * Rule: use puts NOT printf to print text
  */
 #include <stdio.h>
 /*
- * main - prints "Programming is like building a multilingual puzzle"
+ * main - Prints "Programming is like building a multilingual puzzle"
+ * followed by a new line.
  * returns 0
  */
 int main(void)
